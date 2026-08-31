@@ -1,0 +1,2 @@
+type,message_size,q1_bytes_sent,q2_bytes_sent,compressed_size,compression_used,compression_ratio,percent_reduction,rtt_ms
+repetitive,2250,2250,75,62,1,0.0276,96.67,0.455
