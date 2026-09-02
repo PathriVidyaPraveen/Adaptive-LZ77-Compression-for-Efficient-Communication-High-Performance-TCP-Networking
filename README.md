@@ -195,7 +195,7 @@ python3 benchmark_feature2.py --plot-only
 
 ---
 
-## Notes for graders
+## Notes
 
 - **Every mode above is independent and can be re-run at any time** in any
   order; each `make clean && make` produces fresh binaries.
